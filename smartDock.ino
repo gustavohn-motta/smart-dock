@@ -17,8 +17,8 @@
 boolean connectWifi();
 
 // Change this!!
-const char* ssid = "motta 2.4";
-const char* password = "motta32422058";
+const char* ssid = "...";
+const char* password = "...";
 
 boolean wifiConnected = false;
 
